@@ -1,0 +1,46 @@
+#Copyright Beta ORI Inc. Canada. All Rights Reserved.
+# Author: Awase Khirni Syed 
+# Thanks to Roshan D'souza for sharing subject matter related expertise
+
+Hyperion Mortgage OS (TM) is a reimagined, AI-native, data goverened operating system for mortgage lending.
+it unifies Point of Sales (POS), Loan Origination (LOS), Customer Relationship Management (CRM), Pircing, Closing and Servicing into a single, immutable data fabric.
+It is designed for enterprise lenders, community banks, credit unions and non-bank fintechs. Hyperion Mortgage OS (TM) eliminates the "integration tax" ad delivers a zero-friction, audit-ready
+and adaptive lending experience. 
+
+Comprehensive List of Modules 
+1. Unified Borrower Point of Sale 
+2. Enterprise LOan Origination System (LOS) Core 
+3. Intelligent CRM & Lead Management 
+4. AI Document Processing & Intelligent Underwriting 
+5. Product & Pricing Engine (PPE)
+6. Digital Closing & eClosing Network 
+7. Regulatory Compliance Engine 
+8.Secondary Marketing & Loan Sales 
+9.Loan Servcing & Investor Accounting
+10.Role-Based Access Control (RBAC) & Zero-Trust Security 
+11. Data Governance & Metadata Management 
+12.Data Integstion & Vendor Integration Hub 
+13.Visitor Analytics & User Experience Optimization 
+14.Real-Time Analytics & KPI Dashboard 
+15. Success Metrics Framework (OKR & Balanced Scorecard)
+16. Low-code Workflow Studio 
+17. Audit Trail & eDiscovery 
+18.Notification & Communication ENgine 
+19. Billing & Invoice Management 
+20.Mortgage Accounting & General Ledger 
+21. Document Management & eFolder 
+22.Third-Party Vendor Management 
+23. Fraud Detection & Risk Scoring 
+24.Quality Contorl & Post-closing audit 
+25. API Gateway & Developer Portal 
+26.Event Streaming & Webhook Engine 
+27. Test Data Management & Environment Sandbox
+28. Artificial Intelligence Model Governance
+29. Multi-Tenancy & White-Label Mnaagement 
+30. Training & SImultation module
+31Disaster Recovery & Business Continuity 
+32. Mobile Field Origination 
+33. Consumer Financial Protection Bureau (CFPB) reporting 
+34. Enterprise Service Bus & Integration Orchestration 
+35. Blockchain Document Notarization (Future)
+36. Offet Mortgage illustrator Integration (Manulife features) for 20%+ equity properties -reduction in tenure and principal payment
