@@ -87,3 +87,19 @@ M-33	Consumer Financial Protection Bureau (CFPB) Reporting	Automated generation 
 M-34	Enterprise Service Bus (ESB) & Integration Orchestration	Internal message broker that orchestrates complex workflows across modules (e.g., when a condition clears, notify underwriting, update pipeline, and send SMS to borrower).	Workflows span multiple modules but lack coordination; race conditions and partial updates occur.	Reliable, transactional workflow coordination; simplified module communication.	Orchestration Success Rate; Workflow Latency; Transaction Rollback Count.	System Architects, Developers, Operations
 M-35	Blockchain Document Notarization (Future)	Optional module that hashes final closing documents and stores the hash on a public or private blockchain, providing cryptographic proof of existence and integrity.	Disputes over document authenticity or date; need for third party notarization trust.	Tamper proof evidence; reduced notary costs; instant verification of document integrity.	Notarization Time; Document Dispute Reduction; Verification Latency.	Legal, Closing Agents, Borrowers (optional)
 
+Module 36: Offset Mortgage Illustrator & Integration Engine 
+Description & Business Case:
+Inspired y all-in-one banking models (e.g. Manulife One), this module allows lenders to offer offset mortgage products where borrowers deposits(savings, checking) are linked to their mortage principal to reduce daily interest calculations. The illustrator component provides a real-time, interactive simulation engine for borrowers and loan officers (LOs) at the point of sale, projecting interest savings, term reduction, and tax implications. Crucially the integration component ensures the illustration seamlessly transitions into live loan pricing (PPE) and origination (LOS) and daily balance reconciliation during servicing. 
+
+User Pain Point addressed:
+Borrowers don't understand the mathematical value of offset account, leading to a low adoption of high-marking products. Furthermore, traditional systems treat the offset calculator as a separate marketing widget; when the loan is buooked, the illustrated savings dont match actual servicing calculations due to data silos between POS, PPE and Servicing modules 
+
+Potential Impact/Benefits 
+High capture rate for premium offset products; increase browser lifetime value (LTV) and stickiiness (borrowers rarely refinance away from an all-in-one offset account); instant differentiation ina commoditized mortgage market. 
+
+KPIs:
+Offset Product Adoption Rate; illustration- to-Booking Conversion; Projected vs Actual Interest Savings Variancee; Borrower Deposit Retention Rate
+
+Primary Users:
+Borrowers, Loan Officers (LOs), Product Managers, Capital Markets, Servicing Managers
+
